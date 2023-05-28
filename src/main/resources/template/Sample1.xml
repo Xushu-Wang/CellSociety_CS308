@@ -1,0 +1,13 @@
+<simulation>
+    <simtype></simtype>
+    <title></title>
+    <author></author>
+    <description></description>
+    <grid>
+        <width></width>
+        <height></height>
+        <cells></cells>
+    </grid>
+    <parameters>
+    </parameters>
+</simulation>

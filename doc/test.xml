@@ -1,0 +1,19 @@
+<simulation>
+    <simtype>Segregation</simtype>
+    <title>Segregation Simulation</title>
+    <author>Sophie</author>
+    <description> Simulation of Segregation in a Neighborhood</description>
+    <grid>
+        <width> 6 </width>
+        <height> 4 </height>
+        <cells>
+            0 1 1 2 1 0
+            0 2 1 0 2 2
+            0 0 2 2 1 1
+            0 1 1 1 2 0
+        </cells>
+    </grid>
+    <parameters>
+        <satisifedpercent> 0.3 </satisifedpercent>
+    </parameters>
+</simulation>
